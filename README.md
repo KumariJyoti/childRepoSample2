@@ -1,2 +1,2 @@
 # childRepoSample2
-sample changes......
+sample changes...... from GIT UI
